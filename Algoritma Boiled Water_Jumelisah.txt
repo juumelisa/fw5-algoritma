@@ -1,0 +1,10 @@
+Boiled Water
+1. Start
+2. Siapkan panci dan air
+3. Masukkan air ke dalam panci
+4. Letakkan panci di atas kompor
+5. Hidupkan kompor
+6. Tunggu hingga air mendidih
+7. Matikan Kompor
+8. Angkat Panci
+9. End

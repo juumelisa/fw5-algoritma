@@ -1,0 +1,7 @@
+Menentukan bilangan ganjil atau genap
+
+1. Start
+2. Masukkan nilai x
+3. Jika x modulo 2 = 0, maka x bilangan genap
+4. Jika x modulo 2 != 0, maka x bilangan ganjil
+5. End

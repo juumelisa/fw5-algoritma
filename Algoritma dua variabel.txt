@@ -1,0 +1,8 @@
+Menentukan variabel yang lebih besar diantara x dan y
+
+1. Start
+2. Masukkan variabel x dan variabel y
+3. Jika x-y>0, maka x>y
+4. Jika x-y<0, maka y>x
+5. Jika x-y=0, maka x = y
+6. End

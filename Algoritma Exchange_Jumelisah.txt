@@ -1,0 +1,8 @@
+Exchanging Water in the Cup
+
+1. Start
+2. Siapkan gelas kosong (C)
+3. Tuangkan isi gelas A ke dalam gelas C
+4. Tuangkan isi gelas B ke dalam gelas A
+5. Tuangkan isi gelas C ke dalam gelas B
+6. End

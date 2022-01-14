@@ -1,0 +1,8 @@
+Calculate area and Circumtance of a circle
+
+1. Start
+2. Phi=3.14
+3. Tentukan panjang jari-jari (r)
+4. Hitung Luas=phi x r x r
+5. Hitung Keliling = 2 x phi x r
+6. End
